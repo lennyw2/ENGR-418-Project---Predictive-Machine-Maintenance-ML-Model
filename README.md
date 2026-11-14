@@ -1,0 +1,2 @@
+# ENGR-418-Project---Predictive-Machine-Maintenance-ML-Model
+This repository is to document the ENGR 418 course project. A dataset was taken from Kaggle that simulated various measurements from different industrial equipment with the purpose of predicting if the equipment is faulty or not. Various logistic regression and random forest models were created to analyze the effectiveness of different techniques
